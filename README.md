@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mosesborore
 - 👀 I’m interested in Web dev, Django, Automation, & Tech in General
 - 🌱 I’m currently learning Django-Rest-Framework
-- 💞️ I’m looking to collaborate on any mteresting project.
+- 💞️ I’m looking to collaborate on any interesting projects.
 - 📫 How to reach me ...
 
 <!---
