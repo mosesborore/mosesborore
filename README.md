@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @mosesborore
-- 👀 I’m interested in Web dev, Django, Automation, & Tech in General
-- 🌱 I’m currently learning Django-Rest-Framework
-- 💞️ I’m looking to collaborate on any interesting projects.
-- 📫 How to reach me ...
+<p align="justify"> 
+Hello 🖐️ there, welcome to my github page. I'm Moses Borore
+</p>
 <div align="left">
-
 [![github](https://img.shields.io/badge/mosesborore-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mosesborore/)
 [![Instagram](https://img.shields.io/badge/borore-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iam_borore/)
 ![Visitor Count](https://profile-counter.glitch.me/mosesborore/count.svg)
@@ -17,4 +14,7 @@ I code with :  👇
 </p>
 
 ## Github stats 📊 
-[![borore's github stats](https://github-readme-stats.vercel.app/api?username=mosesborore)](https://github.com/mosesborore/github-readme-stats)
+[![moses borore's github stats](https://github-readme-stats.vercel.app/api?username=mosesborore)](https://github.com/mosesborore/github-readme-stats)
+
+## GitHub Trophy
+[![moses borore'trophy](https://github-profile-trophy.vercel.app/?username=mosesborore)](https://github.com/mosesborore/github-profile-trophy)
