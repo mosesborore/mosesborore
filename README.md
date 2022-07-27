@@ -1,11 +1,11 @@
 <p align="justify"> 
-Hello 🖐️ there, welcome to my github page. I'm Moses Borore
+Hello 🖐️ there, welcome to my GitHub page. I'm Moses Borore
 </p>
+
 <div align="left">
 [![github](https://img.shields.io/badge/mosesborore-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mosesborore/)
 [![Instagram](https://img.shields.io/badge/borore-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iam_borore/)
 [![Visitor Count](https://profile-counter.glitch.me/mosesborore/count.svg)]
-
 </div> 
 <p align="left">
 I code with :  👇
