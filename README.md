@@ -14,7 +14,7 @@ I code with :  👇
 </p>
 
 ## Github stats 📊 
-[![moses borore's github stats](https://github-readme-stats.vercel.app/api?username=mosesborore)](https://github.com/mosesborore/github-readme-stats)
+[![moses borore's github stats](https://github-readme-stats.vercel.app/api?username=mosesborore&theme=gruvbox)](https://github.com/mosesborore/github-readme-stats)
 
 ## GitHub Trophy
 [![moses borore'trophy](https://github-profile-trophy.vercel.app/?username=mosesborore)](https://github.com/mosesborore/github-profile-trophy)
