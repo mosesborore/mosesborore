@@ -1,12 +1,14 @@
-<p align="justify"> 
-Hello 🖐️ there, welcome to my GitHub page. I'm Moses Borore <br/>
-I'm currently learning <img src="https://img.shields.io/badge/GraphQL-563D7C?style=for-the-badge&logo=graphql&logoColor=white"/>
-</p>
-
+- 👋 Hi, I’m @mosesborore
+- 👀 I’m interested in Web dev, Django, Automation, & Tech in General
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/GraphQL-092E20?style=for-the-badge&logo=GraphL&logoColor=white"/>
+- 💞️ I’m looking to collaborate on any interesting projects.
+- 📫 How to reach me ...
 <div align="left">
-[![Github](https://img.shields.io/badge/mosesborore-000000?style=for-the-badge&logo=GitHub&logoColor=white) ] (https://github.com/mosesborore/)
+
+[![github](https://img.shields.io/badge/mosesborore-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mosesborore/)
 [![Instagram](https://img.shields.io/badge/borore-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iam_borore/)
-[![Visitor Count](https://profile-counter.glitch.me/mosesborore/count.svg)]
+![Visitor Count](https://profile-counter.glitch.me/mosesborore/count.svg)
+
 </div> 
 <p align="left">
 I code with :  👇
@@ -15,7 +17,7 @@ I code with :  👇
 </p>
 
 ## Github stats 📊 
-[![moses borore's github stats](https://github-readme-stats.vercel.app/api?username=mosesborore&theme=gruvbox)](https://github.com/mosesborore/github-readme-stats)
+[![borore's github stats](https://github-readme-stats.vercel.app/api?username=mosesborore&theme=gruvbox)](https://github.com/mosesborore/github-readme-stats)
 
 ## GitHub Trophy
 [![moses borore'trophy](https://github-profile-trophy.vercel.app/?username=mosesborore&theme=gruvbox)](https://github.com/mosesborore/github-profile-trophy)
