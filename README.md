@@ -4,7 +4,7 @@ Hello 🖐️ there, welcome to my github page. I'm Moses Borore
 <div align="left">
 [![github](https://img.shields.io/badge/mosesborore-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mosesborore/)
 [![Instagram](https://img.shields.io/badge/borore-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iam_borore/)
-![Visitor Count](https://profile-counter.glitch.me/mosesborore/count.svg)
+[![Visitor Count](https://profile-counter.glitch.me/mosesborore/count.svg)]
 
 </div> 
 <p align="left">
@@ -17,4 +17,4 @@ I code with :  👇
 [![moses borore's github stats](https://github-readme-stats.vercel.app/api?username=mosesborore&theme=gruvbox)](https://github.com/mosesborore/github-readme-stats)
 
 ## GitHub Trophy
-[![moses borore'trophy](https://github-profile-trophy.vercel.app/?username=mosesborore)](https://github.com/mosesborore/github-profile-trophy)
+[![moses borore'trophy](https://github-profile-trophy.vercel.app/?username=mosesborore&theme=gruvbox)](https://github.com/mosesborore/github-profile-trophy)
