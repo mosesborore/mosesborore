@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mosesborore
-- 👀 I’m interested in Web dev, Django, Automation, & Tech in General
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/GraphQL-092E20?style=for-the-badge&logo=GraphL&logoColor=white"/>
+- 👀 I’m interested in Backend, Django, Automation, & Tech in General
 - 💞️ I’m looking to collaborate on any interesting projects.
 - 📫 How to reach me ...
 <div align="left">
